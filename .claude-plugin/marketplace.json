@@ -1,0 +1,11 @@
+{
+  "name": "claude-koi-pond",
+  "owner": { "name": "synthentica" },
+  "plugins": [
+    {
+      "name": "koi-pond",
+      "source": "./",
+      "description": "An animated pixel-art koi pond backdrop for Claude Desktop: koi, raindrops, lily pads and drifting cherry blossoms."
+    }
+  ]
+}
